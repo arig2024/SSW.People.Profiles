@@ -1,7 +1,7 @@
 ---
 id: "52cf9892-bcfa-ee11-9f89-000d3ad1a42c"
 
-qualifications: "Building Project Manager"
+qualifications: "Bachelor Building Construction Management"
 
 quote: "Working together to provide solutions to problems proactively every day, for our clients and internally"
 quoteAuthor: "Anonymous"
